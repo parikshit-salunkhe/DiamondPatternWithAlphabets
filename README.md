@@ -1,6 +1,6 @@
-### DiamondPatternWithAlphabets
+# Diamond Pattern With Alphabets in C#
 
-# This program will print you characters in below format.
+### This program will print you characters in below format.
 
 Examples
 
